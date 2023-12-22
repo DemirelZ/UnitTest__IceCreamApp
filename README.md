@@ -14,4 +14,4 @@ Unit tests were executed on the application.
 
 ## Find the screen gif below 
 
-![](/public/icecreamapp.PNG)
+![icecreamapp](https://github.com/DemirelZ/UnitTest__IceCreamApp/assets/113470281/b52cc235-f598-4ada-96be-07b85dbad9c6)
