@@ -14,7 +14,6 @@ test("sosları ekleme çıkarma toplam fiyatı etkiler", async () => {
   render(<Toppings />);
   const user = userEvent.setup();
 
-  // toplam başlığını çağırma
   const total = screen.getByRole("heading", {
     name: /Soslar Ücreti/i,
   });
