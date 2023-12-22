@@ -12,6 +12,6 @@ Unit tests were executed on the application.
 - "react-scripts": "5.0.1",
 - "web-vitals": "^2.1.4"
 
-## Find the screen gif below 
+## Find the screenshot below 
 
 ![icecreamapp](https://github.com/DemirelZ/UnitTest__IceCreamApp/assets/113470281/b52cc235-f598-4ada-96be-07b85dbad9c6)
