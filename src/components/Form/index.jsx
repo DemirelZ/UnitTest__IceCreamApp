@@ -5,7 +5,7 @@ const Form = () => {
   const [isHover, setIsHover] = useState(false);
 
   return (
-    <div className="d-flex justify-content-center align-items-center gap-3">
+    <div className="d-flex justify-content-center align-items-center mt-5 gap-3">
       <input type="checkbox" onChange={(e) => setIsChecked(e.target.checked)} />
       <div className="terms">
         <p

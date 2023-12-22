@@ -17,7 +17,7 @@ const Scoops = () => {
     
 
   return (
-    <div className="container">
+    <div className="container mt-5">
       <h1>Dondurma Çeşitleri</h1>
       <p>Tanesi 20 &#8378; </p>
       <h2 data-testId='toplam' >Çeşitler ücreti {basket.length * 20} &#8378; </h2>
